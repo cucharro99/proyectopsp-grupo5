@@ -562,3 +562,6 @@ Nuestro proyecto consistirá sobre la gestión de un videoclub. Este programa te
   </a>
   
   
+# Manual de USUARIO
+
+Nuestra aplicacion, para iniciarla debes tener iniciado WampServer con la base de datos que encuentra en el repositorio. Debes abrir la aplicacion con IntelliJ o cualquier IDE.
